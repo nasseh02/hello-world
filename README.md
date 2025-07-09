@@ -6,3 +6,5 @@ Just a small addition/edit
 New commit change
 
 testing the pull feature
+
+updated readme file
